@@ -1,0 +1,50 @@
+[
+  {
+    "ScriptName": "GetPrinterList",
+    "Script": "# Get list of printers\n$printers = Get-Printer\n\n# Output printers to be captured by C#\n$printers"
+  },
+  {
+    "ScriptName": "CheckPrinterExists",
+    "Script": "param ([string]$printerName)\r\n\r\n# Get list of printers\r\n$printers = Get-Printer\r\n\r\n# Check if the selected printer exists\r\n$printer = $printers | Where-Object { $_.Name -eq $printerName }\r\nif ($null -eq $printer) {\r\n    Write-Output \"$printerName Not Found!\"\r\n    return\r\n}"
+  },
+  {
+    "ScriptName": "ClearPrintQueue",
+    "Script": "param ([string]$printerName)\r\n\r\n# Get the printer by name\r\n$printer = Get-Printer -Name $printerName\r\n\r\n# Clear the print queue\r\nif ($printer.ClearQueue -is [System.Management.Automation.ScriptBlock]) {\r\n    Write-Output \"Clearing the print queue for $($printer.Name)...\"\r\n    $printer.ClearQueue()\r\n} else {\r\n    Write-Output \"The $($printer.Name) printer does not support clearing the print queue.\"\r\n}"
+  },
+  {
+    "ScriptName": "PrintTestPage",
+    "Script": "param ([string]$printerName)\r\n\r\n# Get the printer by name\r\n$printer = Get-Printer -Name $printerName\r\n\r\n# Print a test page\r\nif ($printer.PrintTestPage -is [System.Management.Automation.ScriptBlock]) {\r\n    Write-Output \"Printing a test page for $($printer.Name)...\"\r\n    $printer.PrintTestPage()\r\n} else {\r\n    Write-Output \"The $($printer.Name) printer does not support printing a test page.\"\r\n}"
+  },
+  {
+    "ScriptName": "RestartPrinter",
+    "Script": "param ([string]$printerName)\r\n\r\n# Get the printer by name\r\n$printer = Get-Printer -Name $printerName\r\n\r\n# Restart the printer\r\nif ($printer.Restart -is [System.Management.Automation.ScriptBlock]) {\r\n    Write-Output \"Restarting $($printer.Name)...\"\r\n    $printer.Restart()\r\n} else {\r\n    Write-Output \"The $($printer.Name) printer does not support restarting.\"\r\n}"
+  },
+  {
+    "ScriptName": "RestartComputer",
+    "Script": "Restart-Computer"
+  },
+  {
+    "ScriptName": "CurrentBrowserVolumeLevel",
+    "Script": "Write-Output \"Checking and maximizing the current browser's volume levels...\"\r\n$browsers = Get-Process -Name \"*chrome*\", \"*firefox*\", \"*edge*\", \"*iexplore*\"\r\nforeach ($browser in $browsers) {\r\n    try {\r\n        $browserWindow = $browser.MainWindowHandle\r\n        $browserName = $browser.ProcessName\r\n\r\n        # Check if the browser supports volume control\r\n        Add-Type -AssemblyName UIAutomationClient\r\n        $automation = [Windows.Automation.Automation]::AttachThreadInput\r\n        $control = [Windows.Automation.AutomationElement]::FromHandle($browserWindow)\r\n        $volumeControl = $control.FindFirst([Windows.Automation.TreeScope]::Subtree, [Windows.Automation.PropertyCondition]::TrueCondition)\r\n\r\n        if ($volumeControl -ne $null) {\r\n            # Unmute and maximize the volume\r\n            $volumeControl.SetFocus()\r\n            $wshShell = New-Object -ComObject WScript.Shell\r\n            for ($i = 0; $i -lt 50; $i++) {\r\n                $wshShell.SendKeys([char]175)\r\n                Start-Sleep -Milliseconds 50\r\n            }\r\n            Write-Output \"Maximized volume for $browserName\"\r\n        } else {\r\n            Write-Output \"Unable to control volume for $browserName\"\r\n        }\r\n    } catch {\r\n        Write-Output \"Error occurred while trying to control volume for $($browser.ProcessName): $($_.Exception.Message)\"\r\n    }\r\n}"
+  },
+  {
+    "ScriptName": "CheckMaximizeDeviceVolume",
+    "Script": "Write-Output \"Checking and maximizing the device's volume levels...\"\r\n$wshShell = New-Object -ComObject WScript.Shell\r\nfor ($i = 0; $i -lt 50; $i++) {\r\n    $wshShell.SendKeys([char]175)\r\n    Start-Sleep -Milliseconds 50\r\n}"
+  },
+  {
+    "ScriptName": "AskStillNoSound",
+    "Script": "$noSound = Read-Host \"Is there still no sound? (Y/N)\"\r\nif ($noSound -eq 'Y' -or $noSound -eq 'y') {\r\n    Write-Host \"Please make sure all cables are fully connected between your monitor and external speakers, if you're using one. Also, ensure that the speakers are turned on.\"\r\n}"
+  },
+  {
+    "ScriptName": "CheckDifferentSoundOutputDevices",
+    "Script": "Write-Output \"Checking the different sound output devices...\"\r\n$audioDevices = Get-AudioDevice -Playback\r\nforeach ($device in $audioDevices) {\r\n    Write-Output \"Setting $($device.FriendlyName) as the default sound output device...\"\r\n    $device | Set-AudioDevice -Playback\r\n\r\n    $testSound = New-Object System.Media.SoundPlayer\r\n    $testSound.SoundLocation = \"C:\\Windows\\Media\\Windows Ringtone.wav\"\r\n    $testSound.Play()\r\n\r\n    Start-Sleep -Seconds 8\r\n    $userResponse = Read-Host \"Did you hear the sound? (Y/N)\"\r\n    if ($userResponse -eq 'Y' -or $userResponse -eq 'y') {\r\n        break\r\n    }\r\n}"
+  },
+  {
+    "ScriptName": "DisplayBrightnessLevel",
+    "Script": "$wmi = Get-WmiObject -Namespace root/WMI -Class WmiMonitorBrightness\r\n$currentBrightness = $wmi.CurrentBrightness\r\n\r\nWrite-Output \"Previous brightness level is: $currentBrightness%\"\r\n\r\n$wmi = Get-WmiObject -Namespace root/WMI -Class WmiMonitorBrightnessMethods\r\n$wmi.WmiSetBrightness(1, 100)\nWrite-Output \"Current brightness level set 100%\"\r\n"
+  },
+  {
+    "ScriptName": "AskToUserAdjustBrightness",
+    "Script": "param ([int]$newLevel)\r\nif ($newLevel -ge 1 -and $newLevel -le 100) {\r\n    $wmi = Get-WmiObject -Namespace root/WMI -Class WmiMonitorBrightnessMethods\r\n    $wmi.WmiSetBrightness(1, $newLevel)\r\n    Write-Output \"Brightness level set to $newLevel%. Thank you!\"\r\n} else {\r\n    Write-Output \"Invalid input. Brightness level must be between 1 and 100.\"\r\n}"
+  }
+]

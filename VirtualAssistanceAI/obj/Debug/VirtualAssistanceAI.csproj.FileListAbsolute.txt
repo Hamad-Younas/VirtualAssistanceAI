@@ -1,0 +1,115 @@
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Scripts.json
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\logo.ico
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\VirtualAssistanceAI.exe.config
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\VirtualAssistanceAI.exe
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\VirtualAssistanceAI.pdb
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\OpenAI_API.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Buffers.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Management.Automation.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Memory.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\OpenAI_API.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Buffers.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Memory.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.csproj.AssemblyReference.cache
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.exe.config
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\MainWindow.g.cs
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\App.g.cs
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI_Content.g.cs
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI_MarkupCompile.cache
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI_MarkupCompile.lref
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\App.baml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\MainWindow.baml
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.g.resources
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.Properties.Resources.resources
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.csproj.GenerateResource.cache
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.csproj.CoreCompileInputs.cache
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualA.151FC6B4.Up2Date
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.exe
+C:\Users\SW Team_Nilesh\source\repos\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.pdb
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Scripts.json
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\logo.ico
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\VirtualAssistanceAI.exe.config
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\VirtualAssistanceAI.exe
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\VirtualAssistanceAI.pdb
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Http.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Options.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Newtonsoft.Json.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\OpenAI_API.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Buffers.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Memory.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Numerics.Vectors.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Http.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Options.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\Newtonsoft.Json.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\OpenAI_API.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Buffers.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Memory.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Numerics.Vectors.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.csproj.AssemblyReference.cache
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.csproj.SuggestedBindingRedirects.cache
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.exe.config
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\MainWindow.g.cs
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\App.g.cs
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI_Content.g.cs
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI_MarkupCompile.cache
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI_MarkupCompile.lref
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\App.baml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\MainWindow.baml
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.g.resources
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.Properties.Resources.resources
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.csproj.GenerateResource.cache
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.csproj.CoreCompileInputs.cache
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.csproj.CopyComplete
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.exe
+E:\fiverr\latest wpf\assitance version 2\version 3\VirtualAssistanceAI_4.7\VirtualAssistanceAI\obj\Debug\VirtualAssistanceAI.pdb
